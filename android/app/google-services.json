@@ -1,0 +1,48 @@
+  {
+  "project_info": {
+    "project_number": "622245156647",
+    "firebase_url": "https://inventorywhiz-823fb-default-rtdb.firebaseio.com",
+    "project_id": "inventorywhiz-823fb",
+    "storage_bucket": "inventorywhiz-823fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622245156647:android:f89e401b03a05ec8b2bb02",
+        "android_client_info": {
+          "package_name": "com.InventoryWhiz.reminders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622245156647-1jucr0lur1v843qcedri14ajsqc7p6ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.InventoryWhiz.reminders",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "622245156647-cgga00cnhcfa0kgs66fvioc48gclhuar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcrU-Jj22YiDYwCZSCw5as5T1gxgxNszc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622245156647-cgga00cnhcfa0kgs66fvioc48gclhuar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
